@@ -14,7 +14,9 @@ Corresponds to: C:\Users\User\Documents
 
 # Finding the Computer Name
 The hostname can be found using Command Prompt: hostname
-It can also be found under: **Settings → System → About → Device name**
+It can also be found under: 
+
+**Settings → System → About → Device name**
 
 
 # Accessing an administrative share does not itself:
@@ -23,6 +25,7 @@ It can also be found under: **Settings → System → About → Device name**
 * Display their desktop
 * Control their mouse or keyboard
 * Start an RDP session
+  
 (Care should still be taken when modifying files that are actively being used by applications)
 
 
