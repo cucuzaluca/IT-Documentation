@@ -1,6 +1,7 @@
 ## Windows Administrative Shares
 
 
+
 # What is it?
 Windows automatically creates hidden network shares for administrative purposes. These allow authorised administrators to remotely access drives 
 and other resources on another Windows computer.
@@ -12,11 +13,13 @@ For example: \\CLIENT77\C$\Users\User\Documents
 Corresponds to: C:\Users\User\Documents
 
 
+
 # Finding the Computer Name
 The hostname can be found using Command Prompt: hostname
 It can also be found under: 
 
 **Settings → System → About → Device name**
+
 
 
 # Accessing an administrative share does not itself:
@@ -27,6 +30,7 @@ It can also be found under:
 * Start an RDP session
   
 (Care should still be taken when modifying files that are actively being used by applications)
+
 
 
 # Common IT Support Uses
