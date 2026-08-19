@@ -4,4 +4,4 @@ Documentation, notes, commands, and troubleshooting techniques for Windows admin
 
 ## Topics
 
-- Windows Administrative Shares
+- Remote accessing a user's C: drive
