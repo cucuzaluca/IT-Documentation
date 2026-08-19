@@ -6,7 +6,8 @@ Windows automatically creates hidden network shares for administrative purposes.
 and other resources on another Windows computer.
 
 
-This provides administrative access to the remote computer's `C: ` drive.
+This provides administrative access to the remote computer's `C: ` drive
+
 For example: \\CLIENT77\C$\Users\User\Documents
 Corresponds to: C:\Users\User\Documents
 
