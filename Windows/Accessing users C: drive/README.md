@@ -6,6 +6,7 @@ Windows automatically creates hidden network shares for administrative purposes.
 
 
 
+
 ## This provides administrative access to the remote computer's `C: ` drive.
 For example: \\PC01\C$\Users\User\Documents
 Corresponds to: C:\Users\User\Documents\
@@ -34,6 +35,7 @@ Settings → System → About → Device name\
 
 
 
+
 ## Common IT Support Uses
 Administrative shares can be useful for:
 
@@ -44,3 +46,4 @@ Administrative shares can be useful for:
 * Accessing application configuration folders
 * Performing filesystem-related support without taking control of the user's desktop\
 * 
+  
