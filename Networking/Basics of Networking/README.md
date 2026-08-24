@@ -16,17 +16,14 @@ Depending on the type of NBN connection, this can include things like:
 
 
 ## DNS
-DNS = Domain Name System
-DNS translates domain names into IP addresses.
+DNS = Domain Name System, it translates domain names into IP addresses. Think of DNS as the contacts list of the internet
 
 Humans are good at remembering:
 - google.com
 - youtube.com
 - phasethree.net.au
 
-But computers need an IP address to know where to send network traffic\
-
-
+But computers need an IP address to know where to send network traffic
 
 So, DNS essentially does:
 google.com
@@ -35,10 +32,14 @@ google.com
     ↓
 142.xxx.xxx.xxx
 
-Think of DNS as the contacts list of the internet:
+## DNS Servers
+Computers will have one or more DNS servers configured. Often, your router or DHCP configuration gives your computer the DNS settings automatically.
 
-You know someone's name, and your contacts tell you their phone number.
+You might use DNS servers operated by:
+- Your ISP
+- Your company
+- Google
+- Cloudflare
+- Your own internal network
 
-DNS does:
-
-You know the domain name, and DNS tells you the IP address.
+For example, Google's public DNS includes 8.8.8.8. So if your PC is configured to use Google Public DNS at 8.8.8.8, your PC can ask Google's DNS resolver: "Hey, what's the IP address for example.com?" and the DNS system finds the answer.
