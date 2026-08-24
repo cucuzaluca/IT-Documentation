@@ -3,5 +3,5 @@ Notes on how devices and networks communicate, including IP addressing, routing,
 
 
 ## Topics
-- 
+- Basics of Networking
 
