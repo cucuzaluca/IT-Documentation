@@ -1,5 +1,5 @@
 
-During the Windows 11 setup experience this will allow you to create a local account directly without needing a Wifi connectiong allowing you to skip connecting to the internet first\
+During the Windows 11 setup experience this will allow you to create a local account directly without needing a Wifi connectiong allowing you to skip connecting to the internet first
 
 To do this:\
 Use SHIFT F10 (might have to use Fn if it doesn't work)\
