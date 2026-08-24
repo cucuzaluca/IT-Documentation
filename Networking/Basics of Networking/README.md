@@ -24,7 +24,8 @@ Humans are good at remembering:
 - youtube.com
 - phasethree.net.au
 
-But computers need an IP address to know where to send network traffic/
+But computers need an IP address to know where to send network traffic\
+
 
 
 So, DNS essentially does:
