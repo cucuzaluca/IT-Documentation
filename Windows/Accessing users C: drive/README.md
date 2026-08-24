@@ -1,8 +1,7 @@
 # Windows Administrative Shares
 
 ## What is it?
-Windows automatically creates hidden network shares for administrative purposes. These allow authorised administrators to remotely access drives and other resources on another Windows computer\
-
+Windows automatically creates hidden network shares for administrative purposes. These allow authorised administrators to remotely access drives and other resources on another Windows computer<br>
 
 
 
