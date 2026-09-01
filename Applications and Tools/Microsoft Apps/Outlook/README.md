@@ -1,4 +1,4 @@
-## Microsoft Outlook=
+## Microsoft Outlook
 Microsoft Outlook is Microsoft's email and personal information management application. It is primarily used to send and receive email, but also integrates with calendars, contacts, meetings and Microsoft 365 services.
 
 ## How its used
