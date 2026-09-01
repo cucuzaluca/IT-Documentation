@@ -8,7 +8,7 @@ In an IT support environment, SharePoint is commonly used for managing shared co
 ## Troubleshooting  
 
 
-# Giving a User Access to a Specific SharePoint File
+### Giving a User Access to a Specific SharePoint File
 Steps
 - Open the relevant SharePoint site
 - Navigate to the document library and folder containing the file
