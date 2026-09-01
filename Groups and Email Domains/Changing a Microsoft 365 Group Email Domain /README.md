@@ -3,9 +3,6 @@ A Microsoft 365 group can have multiple email addresses associated with it. One 
 
 ## For example:
 Group: AP053 Averley ST3B & 4B
-Primary email: AP053AverleyST3B4B@phasethree.net.aus
-Required primary email: AP053AverleyST3B4B@artplusplay.com.aus
-
 
 ## Procedure
 - Open the Microsoft 365 Admin Center
