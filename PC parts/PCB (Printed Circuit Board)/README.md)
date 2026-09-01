@@ -1,0 +1,66 @@
+The one correction is: the green isn't usually the main protective board itself, and the lines aren't copper cables.
+
+Think of it like this:
+Yeah — you're basically describing a PCB (Printed Circuit Board), like the motherboard inside a PC, switch, graphics card, etc.
+PCB
+│
+├── Fibreglass board → Gives it strength/structure
+├── Copper traces    → Tiny electrical pathways
+├── Solder mask      → Green protective coating
+└── Components       → Chips, resistors, capacitors, etc.
+🟩 The green stuff — Solder Mask
+
+The green layer you see is called the solder mask.
+
+It's a thin protective coating placed over the copper underneath. It helps protect the copper from things like oxidation and prevents accidental electrical connections during soldering.
+
+It doesn't actually have to be green — PCBs can be black, blue, red, white, etc. Green is just extremely common.
+
+Underneath that is usually a rigid material such as fibreglass/epoxy (FR-4) that gives the board its physical structure.
+
+🟠 The little lines — Copper Traces
+
+You're right that they're made from copper, but they're called traces, not cables.
+
+A trace is basically a tiny flat electrical wire printed onto the PCB.
+
+Chip A
+  │
+  └════════════════ Chip B
+       copper trace
+
+They can carry electrical signals/data, but traces can also carry power and ground.
+
+So don't think:
+
+Copper traces = data
+
+Think:
+
+Copper traces = electrical pathways.
+
+What the electricity represents depends on the circuit.
+
+🧠 And PCBs can have traces INSIDE them
+
+This part is pretty cool. A motherboard isn't necessarily just copper lines on the top and bottom.
+
+Modern PCBs can contain many internal copper layers:
+
+Top components
+────────────────
+Copper layer
+────────────────
+Insulating material
+────────────────
+Copper layer
+────────────────
+Insulating material
+────────────────
+Copper layer
+────────────────
+Bottom components
+
+Tiny plated holes called vias allow electrical connections to travel between those layers.
+
+So when you look at a motherboard and see a trace disappear, it may not actually end — it can go through a via, travel along an internal layer, and come back out somewhere else.
