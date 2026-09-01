@@ -4,7 +4,6 @@ Documentation, notes, setup procedures and troubleshooting techniques for softwa
 ## Applications
 - Adobe Creative Cloud
 - Bluebeam
-- Microsoft Outlook
-- Microsoft Teams
+- Microsoft Apps
 - PlanSwift
 - PuTTY
