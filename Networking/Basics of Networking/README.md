@@ -14,7 +14,8 @@ Depending on the type of NBN connection, this can include things like:
 - Fibre distribution equipment
 - NBN's larger network equipment
 
-
+## SSH
+SSH (Secure Shell) is a protocol used for secure remote command-line access, but it can also provide secure file transfers and network tunnelling.
 ## DNS
 DNS = Domain Name System, it translates domain names into IP addresses. Think of DNS as the contacts list of the internet
 
