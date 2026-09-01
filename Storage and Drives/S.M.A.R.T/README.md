@@ -12,3 +12,7 @@ For example, it can track:
 - Uncorrectable Sectors → data areas the drive couldn't successfully recover.
 - Temperature → operating temperature.
 - Read/Seek errors → certain errors encountered while accessing data.
+
+
+## Applications to do this
+- CrystalDiskInfo
