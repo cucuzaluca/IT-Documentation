@@ -23,3 +23,32 @@ Steps
 - Select the appropriate permission level
 - Confirm/grant the access
 - Verify that the user now appears under Manage access with the correct permission
+
+
+
+## Making a New Document Library
+Think of a SharePoint Document Library as a big managed folder for a specific category of company documents
+
+SharePoint Site (HSE)
+- Document Library – Policies
+  - IT Policies
+　- Safety Policies
+　- Policy.pdf
+
+- Document Library – Procedures
+  - Procedures folders/files
+
+- Document Library – Safety Data Sheets
+  - SDS folders/files
+ 
+The key difference is that a library isn't just a folder. It's a SharePoint container designed for managing documents. It can have its own permissions, version history, columns/metadata, views, sharing settings, and other rules.
+
+### How to make one
+- Go to the HSE SharePoint site
+- Click the ⚙️ Settings icon in the top-right
+- Click Site contents
+- At the top, click + New
+- Choose Document library
+- Choose Blank library
+- Give it whatever name you've been told to use
+- Click Create
