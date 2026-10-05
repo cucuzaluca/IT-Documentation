@@ -11,6 +11,8 @@
     - Copy the entire user folder to the external hard drive for backup.
     - If there issues you can try to run the command sfc /scannow to try to fix corrupted files
 
+robocopy "C:\Users\alishia.gow-smith" "D:\Alishia Gow-Smith" /E /Z /R:0 /W:0 /MT:8 /XJ /FFT /XD "OneDrive - Phase 3 Landscape Construction" "Phase 3 Landscape Construction" "AppData\Local\Temp" "AppData\Local\Microsoft\Windows\INetCache" /XF "*.tmp" "NTUSER.DAT*" "UsrClass.dat*" /TEE /LOG:"D:\Alishia Gow-Smith\robocopy.log"
+
  
  2. Check if TPM is Installed
     - Press Windows + R, type tpm.msc, and hit Enter.  
